@@ -3,10 +3,10 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/davyxu/protoplus/gen"
-	"github.com/davyxu/protoplus/model"
-	"github.com/davyxu/protoplus/msgidutil"
-	"github.com/davyxu/protoplus/util"
+	"github.com/bobwong89757/protoplus/gen"
+	"github.com/bobwong89757/protoplus/model"
+	"github.com/bobwong89757/protoplus/msgidutil"
+	"github.com/bobwong89757/protoplus/util"
 	"os"
 )
 

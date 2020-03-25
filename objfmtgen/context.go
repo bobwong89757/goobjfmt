@@ -1,6 +1,6 @@
 package main
 
-import "github.com/davyxu/protoplus/model"
+import "github.com/bobwong89757/protoplus/model"
 
 type Context struct {
 	*model.DescriptorSet
